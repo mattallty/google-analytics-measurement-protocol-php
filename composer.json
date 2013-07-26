@@ -1,0 +1,13 @@
+{
+    "name": "allty/gam-php",
+    "description": "Google Analytics Measurement Protocol PHP implementation",
+    "authors": [
+        {
+            "name": "Matthias ETIENNE",
+            "email": "matt@allty.com"
+        }
+    ],
+    "require": {
+
+    }
+}
